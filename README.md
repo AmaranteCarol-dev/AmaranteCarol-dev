@@ -6,7 +6,7 @@
 🎂 **26 anos**, de **São Paulo, Brasil**  
 💻 Descobri que sou apaixonada por programação e estou cada vez mais fascinada por essa jornada!  
 🚀 Sou aventureira no mundo do código: quanto mais aprendo, mais me encanto!  
-📚 **Estudante de Análise e Desenvolvimento de Sistemas** pela **Alura**  
+📚 **Estudante de Análise e Desenvolvimento de Sistemas** e me especializado em cursos **Alura**  
 📊 **Contadora** com experiência em contabilidade, agora migrando para o desenvolvimento de software  
 
 ---
