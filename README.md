@@ -1,4 +1,4 @@
-<h1 align="center"> 👋🏼 Olá, eu sou Carolina Amarante!</h1>
+<h1 align="center">👋 Olá, eu sou Carolina Amarante!</h1>
 
 ---
 
@@ -18,10 +18,18 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
+  </a>
 </p>
 
 ---
@@ -29,7 +37,8 @@
 ## 🎯 Meus Objetivos  
 ✅ Migrar para a área de **Análise e Desenvolvimento de Sistemas**  
 💰 Conseguir um **emprego competitivo** na área  
-🏡 Conquistar minha **independência financeira** e minha casa própria   
+🏡 Conquistar minha **independência financeira** e minha casa própria  
+🚗 Adquirir um **Jeep Compass** ou **Nivus prata**  
 ✈️ Viajar para **Fortaleza, Maceió e Gramado**  
 
 ---
