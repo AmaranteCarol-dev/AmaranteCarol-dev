@@ -37,7 +37,7 @@
 ## 🎯 Meus Objetivos  
 ✅ Migrar para a área de **Análise e Desenvolvimento de Sistemas**  
 💰 Conseguir um **emprego competitivo** na área  
-🏡 Conquistar minha **independência financeira** e minha casa própria 
+🏡 Conquistar minha **independência financeira** e minha casa própria  
 ✈️ Viajar para **Fortaleza, Maceió e Gramado**  
 
 ---
