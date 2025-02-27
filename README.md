@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Carolina Amarante!</h1>
+<h1 align="center"> 👋🏼 Olá, eu sou Carolina Amarante!</h1>
 
 ---
 
@@ -7,7 +7,7 @@
 💻 Descobri que sou apaixonada por programação e estou cada vez mais fascinada por essa jornada!  
 🚀 Sou aventureira no mundo do código: quanto mais aprendo, mais me encanto!  
 📚 **Estudante de Análise e Desenvolvimento de Sistemas** pela **Alura**  
-💻 **Contadora** com experiência em contabilidade, agora migrando para o desenvolvimento de software  
+📊 **Contadora** com experiência em contabilidade, agora migrando para o desenvolvimento de software  
 
 ---
 
