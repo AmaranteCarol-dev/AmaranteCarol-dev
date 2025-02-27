@@ -54,3 +54,6 @@
 Carol
 
 ---
+
+![Snake animation](https://github.com/AmaranteCarol-dev/AmaranteCarol-dev/blob/output/github-contribution-grid-snake.svg)
+
