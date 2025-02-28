@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # Execute a cada 12 horas
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -10,18 +10,18 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Permissão para push no repositório
+      contents: write
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Garante acesso ao repositório
+        uses: actions/checkout@v4
 
-      # Atualizando o Platane/snk para a versão 3.1.0
+      # Gerando a Snake Animation sem `set-output`
       - name: Generate Snake Animation
-        uses: Platane/snk@v3.1.0
-        with:
-          github_user_name: AmaranteCarol-dev
-          outputs: dist/github-contribution-grid-snake.svg
+        run: |
+          curl -o snake.svg "https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
+          mkdir -p dist
+          mv snake.svg dist/github-contribution-grid-snake.svg
 
       # Deploy para a branch output
       - name: Deploy to GitHub Pages
