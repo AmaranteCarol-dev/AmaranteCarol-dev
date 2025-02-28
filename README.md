@@ -53,7 +53,7 @@
 
 ---
 
-## 📫 Vamos conversar!
+## 📫 Vamos se conectar!
 
 <p align="center">
   <a href="https://www.instagram.com/amarante_caroll/" target="_blank">
